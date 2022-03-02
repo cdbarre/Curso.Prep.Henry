@@ -1,0 +1,31 @@
+AUTHOR: CARLOS DANIEL BARRE
+
+Definiciones:
+
+	* Variables
+		Son espacios de memoria que se reservan para contener datos. Estos están representados por un nombre para su uso posterior.
+		Los datos pueden ser cadenas de caractares, números o valores booleanos. En el caso de JS no hace falta decirle que tipo de dato contendrán.
+		Los nombres que se definirán deben (muy recomendable) de ser representativo según su contenido. 
+
+
+	* Strings
+		Es un tipo de dato que representan a las cadenas de caracteres (bloque de texto).
+
+
+	* Funciones (argumentos, `return`)
+		Son bloques de código reutilizable. Cuando hay tareas repetibles muy similares, se usan la funciones que al ser invocadas se le pueden o no, pasar datos para dicha tarea.
+		Las ventajas son el ahorro de líneas de códigos. Se le suele pasar valores (llamados argumentos, que pueden ser datos concretos o variables) para ser procesados dentro de ésta. Cuando resuelve el problema por el cual fue desarrollada y se necesita devolver un resultado, se usa la sentencia "return", que caso contrario se puede omitir.
+
+
+	* Declaraciones `if`
+		Es una sentencia del tipo condicional. En su sintaxis se evalúa por medio de un condición la veracidad o falsedad. En el caso de ser verdadera ("True") el flujo de ejecución sige a continuación. Caso contrario ("Falso"), también se le puede decir que código ejecutar, siendo éste último opcional. Ej:
+		If(condición) { 
+				// Aquí va el código en caso de "True"
+			} Else {  // Esta parte es opcional
+				// Aquí va el código en caso de "False"
+		}
+
+
+
+	* Valores booleanos (`true`, `false`)
+		Representan al estado de alguna variable, constante, resultado de una condición es verdadera o falsa. Es un valor lógico representado por un 0 (caso "False") o por un 1 (caso "True")
