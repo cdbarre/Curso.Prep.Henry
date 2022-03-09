@@ -1,0 +1,16 @@
+BARRE, CARLOS DANIEL
+
+JS 3
+
+Definiciones de FOR, &&, || y NOT (!)
+
+	FOR:
+		Es una sentencia que se usa para repetición de código.
+		Pertenece al grupo de sentencias llamadas bucles. Esta se diferencia de las otras porque en su estructura se define el comienzo y el fin. O sea se especifica la cantidad de veces que se va a repetir dicho código.
+
+
+	&& (AND), || (OR) y ! (NOT) :
+		Son operadores lógicos de comparación. En una condición se evalúa su veracidad o su falsedad.
+		&& (AND): Este operador evalúa y devolverá solamente 'True' si ambas expresiones son verdaderas caso contrario devolverá 'False'. 
+		|| (OR): En este caso basta para que una expresión sea verdadera para que devuelva los mismo. Solamente es falso cuando ambas expresiones tb lo son.
+		! (NOT): Simplemente inverte el valor. ej: una expresión es verdadera el operador invierte dando el valor falso.
