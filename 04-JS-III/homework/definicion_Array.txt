@@ -1,0 +1,13 @@
+Definición de Array
+
+    ARRAY ():
+        Son matrices o también llamada arreglos.
+        Es una colección de datos agrupados dentro de un contenedor.
+        Cuando se tienen varios datos y estos están relacionados entre sí, 
+        o sea, que éstos dan información sobre algo o alguien en particular se puede agrupar.
+        Tiene la particularidad que su contenido pueden tener todo tipos de datos, inclusive funciones.
+        Para accedar a un elemento dado dentro del arreglo se lo hace mediante un índice, ya que cada
+        uno de ellos están indexados según su posición.
+
+        
+
