@@ -1,0 +1,17 @@
+Definiciones:
+
+    * Objetos:
+        Son colecciones de propiedades. A diferencia de los array sus datos se estructuran con nombres y sus valores correspondiente.
+        La forma que usa es mediante la forma "clave:valor". Al no usar índices numéricos, se le asigna un nombre ("Key") y su respectivo valor ("value").
+        Inclusive puede contener funciones bajo la misma modalidad de "key:value".
+        En la jerga se dice que un objeto además de propiedades, contiene métodos (que serían las funciones).
+        Entonces, Un objeto contiene datos concretos (propiedades) y acciones que puede realizar (métodos).
+
+	* Bucle `for…in`:
+        Los objetos al no ser indexados numericamente la forma de recorrerlos internamente, es mediante este tipo de Bucle.
+        A diferencia del "for" común, a éste se le asigna una variable para indicar que va a ser la interacción (iterador)
+        sobre la clave del objeto.
+
+	* Notación de puntos vs notación de corchetes:
+        Sirve para acceder a las propiedades o métodos de los objetos. Siendo la notación de puntos la más práctica 
+        a la hora de tipificar por su simpleza y ahorro de caracteres.
