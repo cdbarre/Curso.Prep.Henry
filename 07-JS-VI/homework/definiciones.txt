@@ -1,0 +1,4 @@
+Definiciones
+
+    * Funciones Callback
+        Es la posibilidad de poder pasar como argumento una función dentro de otra.
