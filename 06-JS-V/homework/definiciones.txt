@@ -1,0 +1,9 @@
+Definiciones
+
+* `prototype`
+    Se utiliza para definir métodos en las clases para quedar disponible a los objetos creados bajo esta misma.
+    Evita la repetición de código.
+
+* _Constructors_ (de Clases):
+    Es un método especial para crear e inicializar un objeto creado con una clase. 
+    Solo puede haber un método especial con el nombre "constructor" en una clase.
