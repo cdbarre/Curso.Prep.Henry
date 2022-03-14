@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://www.losandes.com.ar/resizer/VNGi8yNWC7bVG_92a8M2DmEUgSY=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/GJRGCMJWGVSDEOJYMVSDKNZXMU.jpg");
+    background-size: cover;
+    
+   
+    color:aliceblue;
+}
+body, div{
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    color: blanchedalmond;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: bisque;
+    padding: 50px;
+    border: 5px solid red;
+}
+#spandId{
+    font-size: 18px;
+    margin: 50px;
+}
